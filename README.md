@@ -1,8 +1,8 @@
 # Análise de Recursos Humanos RH
 
-> Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa.
-📌 O dashboard completo foi desenvolvido no Power BI Desktop.
-📌 Prints foram utilizados devido à não publicação online do relatório.
+> Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
+ O dashboard completo foi desenvolvido no Power BI Desktop.
+ Prints foram utilizados devido à não publicação online do relatório. 
 
 ## 1. Problema de Negócio
 
