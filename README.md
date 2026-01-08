@@ -1,9 +1,7 @@
+>## Dados fictícios, utilizados para fins educacionais.
+
+
 # Análise de Recursos Humanos RH
-
-> Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
- O dashboard foi desenvolvido no Power BI Desktop.
- Prints foram utilizados devido à não publicação online do relatório. 
-
 ## 1. Problema de Negócio
 
 A ausência de indicadores consolidados sobre quantidade total de funcionários, desligamentos, contratações, distribuição por gênero, localização geográfica, áreas e cargos e rotatividade dificulta o planejamento de pessoas, a tomada de decisões estratégicas e o controle de custos.
@@ -144,3 +142,10 @@ Com base nos resultados obtidos, os próximos passos recomendados são:
 - Evoluir o dashboard com análises preditivas de rotatividade.
 
 Este projeto representa um avanço importante para a gestão estratégica de pessoas, fortalecendo a cultura de People Analytics e apoiando decisões baseadas em dados.
+
+
+### Observação: os dados utilizados neste projeto são fictícios de estudo, com finalidade exclusivamente educacional e demonstrativa,
+📌 O dashboard foi desenvolvido no Power BI Desktop.
+📌 Prints foram utilizados devido à não publicação online do relatório. 
+
+
